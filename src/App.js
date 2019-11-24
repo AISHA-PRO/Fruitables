@@ -7,9 +7,9 @@ import Heading from "./Heading";
 function App() {
   return (
     <div className="wrapper">
-      <div className="col-fl-md-12">
+      {/* <div className="col-fl-md-12">
         <Heading />
-      </div>
+      </div> */}
       <div className="col-fl-md-12">
         <div className="whole">
           <Cards />
