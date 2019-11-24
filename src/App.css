@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -19,4 +19,49 @@
 
 .App-link {
   color: #09d3ac;
+} */
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(39, 38, 38);
+}
+
+.single-strawberry {
+    /* color: white; */
+    background-color: rgb(216, 23, 42);
+    border-style: hidden;
+    box-shadow: 0 0 6px 0 rgb(216, 23, 42);
+}
+
+.single-tomato {
+    /* color: white; */
+    background-color: rgb(14, 94, 65);
+    border-style: hidden;
+    box-shadow: 0 0 6px 0 rgb(14, 94, 65);
+}
+
+.single-apple {
+    /* color: white; */
+    background-color: rgb(250, 182, 39);
+    border-style: hidden;
+    box-shadow: 0 0 6px 0 rgb(250, 182, 39);
+}
+
+.heading-primary {
+    /* background-color: white; */
+}
+
+img {
+    border-radius: 5px;
+}
+
+.text p {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.text h2 {
+    text-transform: uppercase;
+    padding-top: 2em;
+    padding-top: 1em;
 }
