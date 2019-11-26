@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2660170f.chunk.css",
+    "main.js": "/static/js/main.9ecbdbfa.chunk.js",
+    "main.js.map": "/static/js/main.9ecbdbfa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98a606d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98a606d5.js.map",
+    "static/js/2.2fc4f330.chunk.js": "/static/js/2.2fc4f330.chunk.js",
+    "static/js/2.2fc4f330.chunk.js.map": "/static/js/2.2fc4f330.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8e2aba44c86f11d06d5047d648fd76e4.js": "/precache-manifest.8e2aba44c86f11d06d5047d648fd76e4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2660170f.chunk.css.map": "/static/css/main.2660170f.chunk.css.map",
+    "static/media/apples.jpg": "/static/media/apples.a8d48085.jpg",
+    "static/media/strawberries.jpg": "/static/media/strawberries.b024d5d8.jpg",
+    "static/media/tomatoes.jpg": "/static/media/tomatoes.6900bed1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a606d5.js",
+    "static/js/2.2fc4f330.chunk.js",
+    "static/css/main.2660170f.chunk.css",
+    "static/js/main.9ecbdbfa.chunk.js"
+  ]
+}
